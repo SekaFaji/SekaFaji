@@ -47,7 +47,7 @@ These are separate bot projects. Their current hosting status and source availab
 | :--- | :--- | :--- |
 | **Sekampfire** | Pixel-art survival with wood gathering, crafting, camp building, and four seasons. | [Play](https://sekafaji.github.io/Sekampfire/) · [Code](https://github.com/SekaFaji/Sekampfire) |
 | **Sekasma** | Touch-driven idle plasma-ball game with a custom pixel renderer and progression systems. | [Play](https://sekafaji.github.io/Sekasma/) · [Code](https://github.com/SekaFaji/Sekasma) |
-| **Pixel Keep** | Castle-defense prototype with aimed arrows, enemies, and upgrades. *Sekarrows* is the planned redesign. | [Play](https://sekafaji.github.io/Pixel-Keep/) · [Code](https://github.com/SekaFaji/Pixel-Keep) |
+| **Sekarrow** | Pixel-art fortress-defense game with manual arrow aiming, enemy waves, castle upgrades, and permanent progression. A more visual fortress-building system is planned. | [Play](https://sekafaji.github.io/Sekarrow/) · [Code](https://github.com/SekaFaji/Sekarrow) |
 | **Sekavore** | Browser-based incremental mining prototype with upgrades and locally saved progress. | [Code](https://github.com/SekaFaji/Sekavore) |
 
 ## 🧰 Web apps and utilities
