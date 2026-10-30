@@ -52,10 +52,9 @@ These are separate bot projects. Their current hosting status and source availab
 
 ## 🧰 Web apps and utilities
 
-**[Garden Atlas](https://github.com/SekaFaji/Garden-Atlas)** - A local-first garden planner built with React, TypeScript, SVG, and Vite. It supports linked scale and illustrated garden maps, plant records, and offline use after the initial visit.
-
-[![Open Garden Atlas](https://img.shields.io/badge/Open-Garden_Atlas-238636?style=flat-square&logo=githubpages&logoColor=white)](https://sekafaji.github.io/Garden-Atlas/)
-[![View Source](https://img.shields.io/badge/View-Source-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/SekaFaji/Garden-Atlas)
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Garden Atlas** | A local-first garden planner built with React, TypeScript, SVG, and Vite. Create linked scale and illustrated maps, manage plant records, and use the app offline after the initial visit. | [Open app](https://sekafaji.github.io/Garden-Atlas/) · [Code](https://github.com/SekaFaji/Garden-Atlas) |
 
 ## 🛠️ Technologies
 
