@@ -6,7 +6,7 @@
 
 I build pixel-art games, interactive experiences, and practical software — with a focus on responsive interfaces, thoughtful game systems, and maintainable code.
 
-[![Website](https://img.shields.io/badge/Website-SekaFaji-F58220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sekafaji.com)
+[![Website](https://img.shields.io/badge/Website-Coming_Soon-F58220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sekafaji.com)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/794QQWJEeP)
 [![YouTube](https://img.shields.io/badge/YouTube-SekaFaji_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sekafajigames)
 
@@ -43,6 +43,8 @@ I also work on **SekaIdle** and **Sekapocalypse** under SekaFaji Games. The publ
 
 ## 🤝 Let's connect
 
-Interested in a game, an app, a website, or collaborating on something new? Visit **[SekaFaji](https://sekafaji.com)** or join the **[Discord community](https://discord.gg/794QQWJEeP)**.
+Interested in a game, an app, a website, or collaborating on something new? Join the **[Discord community](https://discord.gg/794QQWJEeP)**.
+
+🌐 **[SekaFaji.com](https://sekafaji.com)** is currently **offline / under maintenance** and will be available soon.
 
 <sub>Built with care by SekaFaji · Independent projects, prototypes, and works in progress.</sub>
