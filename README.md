@@ -4,7 +4,7 @@
 
 **Indie game & software developer behind SekaFaji Games and SekaFaji Tools.**
 
-I build pixel-art games, interactive experiences, and practical software — with a focus on responsive interfaces, thoughtful game systems, and maintainable code.
+I build pixel-art games, interactive experiences, and practical software - with a focus on responsive interfaces, thoughtful game systems, and maintainable code.
 
 [![Website](https://img.shields.io/badge/Website-Coming_Soon-F58220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sekafaji.com)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/794QQWJEeP)
