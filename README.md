@@ -33,11 +33,11 @@ A personal assistant application built with **Kotlin, Jetpack Compose, C++, Andr
 
 I also develop community utilities, game trackers, and moderation tools using **Node.js, JavaScript, discord.js, databases, and APIs**.
 
-| Project | Focus |
-| :--- | :--- |
-| **Sekasistant Discord** | Curse of Aros player stats, guild comparisons, leaderboards, calculators, and Discord community utilities. |
-| **CoAPriceChecker** | Community-driven Curse of Aros item prices, market history, searches, and economy statistics. Built with SQLite and an Express API. |
-| **MyEoP** | Empire of Praxia player statistics, comparisons, leaderboards, account linking, calculators, and server utilities. |
+| Project | Focus | Discord |
+| :--- | :--- | :--- |
+| **Sekasistant Discord** | Curse of Aros player stats, guild comparisons, leaderboards, calculators, and Discord community utilities. | [Join server](https://discord.gg/r9wTvPvx6u) |
+| **CoAPriceChecker** | Community-driven Curse of Aros item prices, market history, searches, and economy statistics. Built with SQLite and an Express API. | [Join server](https://discord.gg/r3afcDDprG) |
+| **MyEoP** | Empire of Praxia player statistics, comparisons, leaderboards, account linking, calculators, and server utilities. | [Test bot on Discord](https://discord.gg/948YTD8N6C) |
 
 These are separate bot projects. Their current hosting status and source availability are not implied by this overview.
 
