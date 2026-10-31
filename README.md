@@ -9,9 +9,10 @@
 I create games, Android apps, Discord bots and practical tools through **SekaFaji Games** and **SekaFaji Tools**, independently and with collaborators.
 
 [![Hire Me](https://img.shields.io/badge/HIRE_ME-Start_a_Project-F06442?style=for-the-badge&logo=handshake&logoColor=white)](https://sekafaji.com/hire)
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sekafaji.com)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/794QQWJEeP)
-[![YouTube](https://img.shields.io/badge/YouTube-SekaFaji_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sekafajigames)
+
+[![Website](https://img.shields.io/badge/Website-Coming_Soon-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://sekafaji.com)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/794QQWJEeP)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sekafajigames)
 
 <sub>SekaFaji.com, including the Hire Me page, is currently offline / under maintenance and coming soon.</sub>
 
@@ -19,55 +20,71 @@ I create games, Android apps, Discord bots and practical tools through **SekaFaj
 
 ## ⭐ Featured work
 
-A few of the larger projects I've built or helped develop:
+### SekaIdle
+**Android fantasy idle RPG**  
+Skills, crafting, combat, equipment and offline progression. The original game is on Google Play, while the LibGDX rebuild is in development.
 
-| Project | Highlights | Explore |
-| :--- | :--- | :--- |
-| **SekaIdle** | Android fantasy idle RPG. Skill systems, crafting, combat, equipment, offline progression and a new LibGDX rebuild. | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekaidle) |
-| **Sekapocalypse** | Android zombie survival and horde simulation with human AI, settlement building, resources and strategy. Developed with **Daijo Games**. | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekapocalypse) |
-| **Sekasistant** | Android AI assistant with local model integration, practical utilities and mini-games. | In development |
+[Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekaidle)
+
+### Sekampfire
+**Playable pixel-art survival game**  
+Gather wood, build a camp, craft equipment and survive changing seasons.
+
+[Play in browser](https://sekafaji.github.io/Sekampfire/) · [View code](https://github.com/SekaFaji/Sekampfire)
+
+### Sekasistant
+**Android AI assistant and utility app**  
+Local AI model integration, practical tools and integrated mini-games. Currently in development.
 
 ## 📱 Android games
 
-| Project | Technologies | Development details | Link |
-| :--- | :--- | :--- | :--- |
-| **SekaIdle** | Kotlin, LibGDX, Gradle; earlier Jetpack Compose | The original Android version was published. The new v0.2 LibGDX rebuild is in development and has a desktop testing launcher. | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekaidle) |
-| **Sekapocalypse** | Java 17, LibGDX, Gradle | Android-first zombie strategy and simulation project, with desktop testing. Developed collaboratively with **Daijo Games**. Source repository is private. | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekapocalypse) |
+**SekaIdle** · Kotlin, LibGDX, Gradle  
+Fantasy idle RPG for Android. The original version used Jetpack Compose and was published on Google Play. The v0.2 LibGDX rebuild is in development, with desktop testing support. [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekaidle)
+
+**Sekapocalypse** · Java 17, LibGDX, Gradle  
+Android-first zombie strategy and simulation game with desktop testing. Developed with **Daijo Games**. The current source repository is private. [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekapocalypse)
 
 ## 🤖 Android apps and AI
 
-| Project | Technologies | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **Sekasistant - Android AI Assistant** | Kotlin, Jetpack Compose, C++, Android NDK, llama.cpp | Personal assistant with local AI model integration, conversation and model management, utility tools, and an integrated mini-game called *Seka's Tower*. | In development; source not public |
+**Sekasistant - Android AI Assistant** · Kotlin, Jetpack Compose, C++, Android NDK, llama.cpp  
+Personal assistant with local AI models, conversation and model management, utility tools and *Seka's Tower*, an integrated mini-game. In development; source is not public.
 
 ## 🎮 Browser games
 
-These are publicly accessible projects you can play and inspect.
+Public projects you can play and explore.
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **Sekampfire** | Pixel-art survival with wood gathering, crafting, camp building and changing seasons. | [Play](https://sekafaji.github.io/Sekampfire/) · [Code](https://github.com/SekaFaji/Sekampfire) |
-| **Sekasma** | Touch-driven idle plasma-ball game with a custom pixel renderer and progression systems. | [Play](https://sekafaji.github.io/Sekasma/) · [Code](https://github.com/SekaFaji/Sekasma) |
-| **Sekarrow** | Pixel-art fortress-defense game with manual arrow aiming, enemy waves and upgrades. Fortress progression is being expanded. | [Play](https://sekafaji.github.io/Sekarrow/) · [Code](https://github.com/SekaFaji/Sekarrow) |
+**Sekampfire** · Pixel-art survival with wood gathering, camp building, crafting and changing seasons.  
+[Play](https://sekafaji.github.io/Sekampfire/) · [Source](https://github.com/SekaFaji/Sekampfire)
+
+**Sekasma** · Touch-driven idle plasma-ball game with a custom pixel renderer and progression systems.  
+[Play](https://sekafaji.github.io/Sekasma/) · [Source](https://github.com/SekaFaji/Sekasma)
+
+**Sekarrow** · Pixel-art fortress defense with manual arrow aiming, enemy waves and upgrades. Fortress progression is being expanded.  
+[Play](https://sekafaji.github.io/Sekarrow/) · [Source](https://github.com/SekaFaji/Sekarrow)
 
 ## 💬 Discord bots
 
-I develop community tools and game companions with **Node.js, JavaScript, discord.js, databases and APIs**.
+I build community tools and game companions with **Node.js, JavaScript, discord.js, databases and APIs**.
 
-| Project | What it does | Community |
-| :--- | :--- | :--- |
-| **Sekasistant Discord** | Curse of Aros player stats, guild comparisons, leaderboards, calculators and Discord community utilities. | [Join server](https://discord.gg/r9wTvPvx6u) |
-| **CoAPriceChecker** | Community-driven Curse of Aros item prices, market history and economy statistics, with SQLite and an Express API. | [Join server](https://discord.gg/r3afcDDprG) |
-| **MyEoP** | Empire of Praxia player statistics, comparisons, leaderboards, account linking and server utilities. | [Join server](https://discord.gg/948YTD8N6C) |
+**Sekasistant Discord** · Curse of Aros player stats, guild comparisons, leaderboards, calculators and community utilities.  
+[Join server](https://discord.gg/r9wTvPvx6u)
 
-The bots are distinct projects. Their current uptime or source availability is not implied by these links.
+**CoAPriceChecker** · Curse of Aros item pricing, market history and economy statistics, using SQLite and an Express API.  
+[Join server](https://discord.gg/r3afcDDprG)
+
+**MyEoP** · Empire of Praxia statistics, comparisons, leaderboards, account linking and server tools.  
+[Join server](https://discord.gg/948YTD8N6C)
+
+The bots are separate projects. These links do not imply that each bot is currently online.
 
 ## 🧰 Web apps and utilities
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **Garden Atlas** | Local-first garden planner using React, TypeScript, SVG and Vite. Linked scale and illustrated maps, plant records and offline support. | [Open app](https://sekafaji.github.io/Garden-Atlas/) · [Code](https://github.com/SekaFaji/Garden-Atlas) |
-| **SekaFaji Tools** | A growing web toolbox with converters, editors, file utilities and other practical tools. Built with Python-backed services and browser interfaces. | [Website coming soon](https://sekafaji.com) |
+**Garden Atlas** · React, TypeScript, SVG, Vite  
+Local-first garden planner with linked scale and illustrated maps, plant records and offline support.  
+[Open app](https://sekafaji.github.io/Garden-Atlas/) · [Source](https://github.com/SekaFaji/Garden-Atlas)
+
+**SekaFaji Tools** · Python and browser-based utilities  
+A growing web toolbox for converters, file utilities, editors and practical workflows. [Website coming soon](https://sekafaji.com)
 
 ## 🛠️ Technologies
 
