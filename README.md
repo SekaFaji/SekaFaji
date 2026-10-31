@@ -16,10 +16,10 @@ I build games, Android applications, Discord bots, and web tools through **SekaF
 
 These are my larger game-development projects. Their source repositories are not currently public.
 
-| Project | Technologies | Description |
-| :--- | :--- | :--- |
-| **SekaIdle** | Kotlin, LibGDX, Gradle | A fantasy idle RPG with gathering, crafting, skills, combat, equipment, and long-term progression. Built for Android, with a desktop development launcher. Earlier versions used Jetpack Compose. **In development.** |
-| **Sekapocalypse** | Java 17, LibGDX, Gradle | A zombie-horde and survival simulation where the player commands the undead against evolving human settlements. Android-first, with desktop development testing. **In development with Daijo Games. Private source.** |
+| Project | Technologies | Description | Google Play |
+| :--- | :--- | :--- | :--- |
+| **SekaIdle** | Kotlin, LibGDX, Gradle | A fantasy idle RPG with gathering, crafting, skills, combat, equipment, and long-term progression. The original Android version is published on Google Play; the LibGDX v0.2 rebuild with desktop development launcher is in development. Earlier versions used Jetpack Compose. | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekaidle) |
+| **Sekapocalypse** | Java 17, LibGDX, Gradle | A zombie-horde and survival simulation where the player commands the undead against evolving human settlements. Android-first, with desktop development testing. **In development with Daijo Games. Private source.** | [Google Play](https://play.google.com/store/apps/details?id=com.sekafaji.sekapocalypse) |
 
 ## 🤖 Android apps and AI tools
 
@@ -37,7 +37,7 @@ I also develop community utilities, game trackers, and moderation tools using **
 | :--- | :--- | :--- |
 | **Sekasistant Discord** | Curse of Aros player stats, guild comparisons, leaderboards, calculators, and Discord community utilities. | [Join server](https://discord.gg/r9wTvPvx6u) |
 | **CoAPriceChecker** | Community-driven Curse of Aros item prices, market history, searches, and economy statistics. Built with SQLite and an Express API. | [Join server](https://discord.gg/r3afcDDprG) |
-| **MyEoP** | Empire of Praxia player statistics, comparisons, leaderboards, account linking, calculators, and server utilities. | [Test bot on Discord](https://discord.gg/948YTD8N6C) |
+| **MyEoP** | Empire of Praxia player statistics, comparisons, leaderboards, account linking, calculators, and server utilities. | [Join server](https://discord.gg/948YTD8N6C) |
 
 These are separate bot projects. Their current hosting status and source availability are not implied by this overview.
 
