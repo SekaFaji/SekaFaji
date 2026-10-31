@@ -2,9 +2,9 @@
 
 # Hi, I'm Seka 👋
 
-### Android Game Developer | Software Developer | Discord Bot Developer
+### Game Developer | Software Developer | Discord Bot Developer
 
-I build games, native Android applications, Discord bots, and web tools through **SekaFaji Games** and **SekaFaji Tools**. I enjoy turning ambitious ideas into playable experiences, useful utilities, and well-structured software.
+I build games, Android applications, Discord bots, and web tools through **SekaFaji Games** and **SekaFaji Tools**. I enjoy turning ambitious ideas into playable experiences, useful utilities, and well-structured software.
 
 [![Website - Coming Soon](https://img.shields.io/badge/Website-Coming_Soon-F58220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sekafaji.com)
 [![Discord - Community](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/794QQWJEeP)
@@ -48,7 +48,7 @@ These are separate bot projects. Their current hosting status and source availab
 | **Sekampfire** | Pixel-art survival with wood gathering, crafting, camp building, and four seasons. | [Play](https://sekafaji.github.io/Sekampfire/) · [Code](https://github.com/SekaFaji/Sekampfire) |
 | **Sekasma** | Touch-driven idle plasma-ball game with a custom pixel renderer and progression systems. | [Play](https://sekafaji.github.io/Sekasma/) · [Code](https://github.com/SekaFaji/Sekasma) |
 | **Sekarrow** | Pixel-art fortress-defense game with manual arrow aiming, enemy waves, castle upgrades, and permanent progression. A more visual fortress-building system is planned. | [Play](https://sekafaji.github.io/Sekarrow/) · [Code](https://github.com/SekaFaji/Sekarrow) |
-| **Sekavore** | Browser-based incremental mining prototype with upgrades and locally saved progress. | [Code](https://github.com/SekaFaji/Sekavore) |
+
 
 ## 🧰 Web apps and utilities
 
